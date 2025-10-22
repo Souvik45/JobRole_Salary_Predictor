@@ -250,11 +250,11 @@ Excel:  +$3,100 average salary increase
 
 | Salary Distribution | Correlation Heatmap |
 |---------------------|---------------------|
-| ![Salary Distribution](job-salary-predictor/visualizations/salary_distribution.png) | ![Heatmap](job-salary-predictor/visualizations/correlation_heatmap.png) |
+| ![Salary Distribution](job-salary-predictor/visualization/salary_distribution.png) | ![Heatmap](job-salary-predictor/visualization/correlation_heatmap.png) |
 
-| Word Cloud | Average Salary by State |
+| Word Cloud | Average Salary by Industry |
 |------------|-------------------------|
-| ![WordCloud](job-salary-predictor/visualizations/wordcloud.png) | ![Salary by State](job-salary-predictor/visualizations/salary_by_state.png) |
+| ![WordCloud](job-salary-predictor/visualization/wordcloud.png) | ![Salary by Industry](job-salary-predictor/visualization/salary_by_industry.png) |
 
 </div>
 
@@ -304,7 +304,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Dataset: [Glassdoor Job Postings](https://www.glassdoor.com)
+- Dataset: [glassdoor_jobs.csv](job-salary-predictor/glassdoor_jobs.csv)
 - Inspiration: Data Science community
 - Libraries: scikit-learn, XGBoost, Gradio, Pandas
 
