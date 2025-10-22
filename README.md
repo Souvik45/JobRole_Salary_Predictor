@@ -113,7 +113,7 @@ pip or conda package manager
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/job-salary-predictor.git
+git clone https://github.com/Souvik45/job-salary-predictor.git
 cd job-salary-predictor
 ```
 
@@ -153,7 +153,7 @@ interface.launch()
 ### 3️⃣ Access the App
 Open your browser and navigate to:
 ```
-http://localhost:7860
+http://localhost:7880
 ```
 
 ---
@@ -250,11 +250,11 @@ Excel:  +$3,100 average salary increase
 
 | Salary Distribution | Correlation Heatmap |
 |---------------------|---------------------|
-| ![Salary Distribution](visualizations/salary_distribution.png) | ![Heatmap](visualizations/correlation_heatmap.png) |
+| ![Salary Distribution](job-salary-predictor/visualizations/salary_distribution.png) | ![Heatmap](job-salary-predictor/visualizations/correlation_heatmap.png) |
 
 | Word Cloud | Average Salary by State |
 |------------|-------------------------|
-| ![WordCloud](visualizations/wordcloud.png) | ![Salary by State](visualizations/salary_by_state.png) |
+| ![WordCloud](job-salary-predictor/visualizations/wordcloud.png) | ![Salary by State](job-salary-predictor/visualizations/salary_by_state.png) |
 
 </div>
 
@@ -293,12 +293,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Souvik Samanta**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souvik45)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samantasouvik321@gmail.com)
 
 ---
 
@@ -314,11 +314,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/job-salary-predictor)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/job-salary-predictor?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/job-salary-predictor?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/job-salary-predictor)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/job-salary-predictor)
+![GitHub repo size](https://img.shields.io/github/repo-size/Souvik45/job-salary-predictor)
+![GitHub stars](https://img.shields.io/github/stars/Souvik45/job-salary-predictor?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Souvik45/job-salary-predictor?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Souvik45/job-salary-predictor)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Souvik45/job-salary-predictor)
 
 </div>
 
