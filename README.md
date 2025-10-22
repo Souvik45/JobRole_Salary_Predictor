@@ -34,11 +34,11 @@ This project analyzes **Glassdoor job postings** to predict salaries using machi
 ## 🚀 Demo
 
 ### Web Interface
-![Salary Predictor Interface](screenshots/gradio_interface.png)
+![Salary Predictor Interface](screenshots/app.png)
 *Interactive Gradio interface for salary prediction*
 
 ### Sample Prediction
-![Prediction Result](screenshots/prediction_result.png)
+![Prediction Result](screenshots/app2.png)
 ```
 ╔════════════════════════════════════════╗
 ║     💰 SALARY PREDICTION RESULT        ║
