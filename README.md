@@ -252,9 +252,9 @@ Excel:  +$3,100 average salary increase
 |---------------------|---------------------|
 | ![Salary Distribution](job-salary-predictor/visualization/salary_distribution.png) | ![Heatmap](job-salary-predictor/visualization/correlation_heatmap.png) |
 
-| Word Cloud | Average Salary by Industry |
+| Word Cloud | Average Salary by Seniority |
 |------------|-------------------------|
-| ![WordCloud](job-salary-predictor/visualization/wordcloud.png) | ![Salary by Industry](job-salary-predictor/visualization/salary_by_industry.png) |
+| ![WordCloud](job-salary-predictor/visualization/wordcloud.png) | ![Salary by Seniority](job-salary-predictor/visualization/salary_by_seniority.png) |
 
 </div>
 
